@@ -1,0 +1,36 @@
+img{
+	opacity:1;
+}
+
+.btn 
+{ 
+font-family: serif;
+font-size:15px;
+}
+
+.btn:hover 
+{
+color:rgb(248, 6, 6);
+box-shadow: rgb(253, 1, 1) 0 0 50px;
+}
+
+h1{
+	font-family:serif;
+	font-weight: bold; 
+	color: #141616;
+	margin-top:40px;
+	text-align: center;
+	font-size: 55px;
+	text-shadow:rgb(4, 247, 186) 0 0 40px;
+	word-spacing: 10px;
+}
+
+.four{
+	margin-top:30px;
+	font-family: serif;
+	font-weight:bold; 
+	font-style:bold;
+	color: #FFF8DC;
+	text-align: center;
+	font-size: 20px;
+}
